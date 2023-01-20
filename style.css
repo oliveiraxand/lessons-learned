@@ -25,24 +25,22 @@ table, tr, td{
     padding: 30px;
     border:2px solid;
     width: 40%;
-    ;
 }
 
-
 .lado-direito{
-    position: absolute; 
+    float:right; 
     z-index: 1;
     right:20px;
 }
 
 .lado-esquerdo{
-    position:absolute;
+    float:left;
     z-index: 2;
     height: 270px;
 }
 #rodape{
-    position: absolute;
+    position:static; 
     bottom: 0;
-    width: 100%;
+    text-align:center;
     height: 50px;
 }
