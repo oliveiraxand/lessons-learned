@@ -1,5 +1,9 @@
 body {
     background-color: rgb(253, 251, 251);
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(0,0,1);
+    line-height: 2px;
 }
 
 #cabecalho {
