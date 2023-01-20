@@ -10,3 +10,8 @@ body {
 #titulo {
     
 }
+
+table, tr, td{
+    border:1px solid;
+    position:relative;
+}
