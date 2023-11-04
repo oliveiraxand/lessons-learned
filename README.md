@@ -38,12 +38,6 @@ Este projeto é uma demonstração das lições aprendidas ao longo de um curso 
 
 15. **Posicionamento das tags article e aside lado a lado:** As tags article e aside são posicionadas uma ao lado da outra, com a adição de classes específicas para cada lado.
 
-## Como Testar o Projeto
-
-1. Clone o repositório
-2. Acesse a pasta do projeto
-3. Siga as instruções do arquivo README.md presente na pasta para executar e testar o projeto
-
 ## Tecnologias Utilizadas
 
 - HTML
